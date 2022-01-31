@@ -1,12 +1,14 @@
 {
     "name": "FILTER BOT",
-    "description": "An unlimited filter bot using Mongo DB",
+    "description": "An unlimited filter bot Made By @LegendBoy_Xdusing Mongo DB",
+    "logo": "https://te.legra.ph/file/329cff91cfe957c848cc7.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
+        "LEGENDBOT"
     ],
-    "website": "https://github.com/LEGEND-AI",
+    "website": "https://github.com",
     "repository": "https://github.com/LEGEND-AI/FilterBot",
     "env": {
         "WEBHOOK": {
