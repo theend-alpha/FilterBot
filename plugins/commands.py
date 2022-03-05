@@ -247,8 +247,8 @@ async def help(client, message):
                   InlineKeyboardButton("Connections", callback_data="connect_data")  
                ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/Official_K_LegendBot"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/Legend_K_Userbot")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/LegendBot_AI"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/LegendBot_OP")
                 ]
             ]
         ),
