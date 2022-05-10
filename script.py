@@ -16,13 +16,13 @@ Hit <i>/help</i> for more information.</b>
 /help - <code>Command help</code>
 /about -<code>Something about me!</code>
 
-@LegendBot_XD
+@BTS_CHAT_ZONE
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> @LegendBoy_XD 
+⭕️<b>Creater :</b> @NotReallyAlpha 
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
